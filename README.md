@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashantrai124
-- 👀 I’m interested in - Web Desigining
-- 🌱 I’m currently learning -Full stack Webdevelopment
+- 👀 I’m interested in - Software Engineering
+- 🌱 I’m currently learning - Full Stack Automation
 - 💞️ I’m looking to collaborate on -Web Designing
 - 📫 How to reach me Email -rai.prashant9598@gmail.com
       My Linkedin- http://www.linedin.com/in/prashant-rai-9b66071b9
